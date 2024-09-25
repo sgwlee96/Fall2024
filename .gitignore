@@ -1,3 +1,7 @@
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore datasets in DATA255/homework3
+DATA255/homework3/data/
+DATA255/homework3/simpsons_dataset_custom/
