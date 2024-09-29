@@ -7,4 +7,8 @@ DATA255/homework3/data/
 DATA255/homework3/simpsons_dataset_custom/
 
 # Ignore datasets in DATA255/homework4
-
+DATA255/homework4/part2_COCO_data/
+DATA255/homework4/streetview.mp4
+DATA255/homework4/result.mp4
+DATA255/homework4/frames/
+DATA255/homework4/detectron2
