@@ -12,3 +12,10 @@ DATA255/homework4/streetview.mp4
 DATA255/homework4/result.mp4
 DATA255/homework4/frames/
 DATA255/homework4/detectron2
+
+# Ignore datasets in DATA255/homework5
+DATA255/homework5/data/
+DATA255/homework5/samples/
+DATA255/homework5/modified_samples/
+DATA255/homework5/gans_training_fashionMnist.avi
+DATA255/homework5/gans_training_new.avi
