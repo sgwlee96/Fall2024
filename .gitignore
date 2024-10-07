@@ -17,5 +17,7 @@ DATA255/homework4/detectron2
 DATA255/homework5/data/
 DATA255/homework5/samples/
 DATA255/homework5/modified_samples/
+DATA255/homework5/LSGAN_images_dir/
 DATA255/homework5/gans_training_fashionMnist.avi
 DATA255/homework5/gans_training_new.avi
+DATA255/homework5/lsgans_training_300+300.avi
