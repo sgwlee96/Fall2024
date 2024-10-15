@@ -26,6 +26,8 @@ DATA255/homework4/frames/
 DATA255/homework4/detectron2
 
 # Ignore datasets in DATA255/homework5
+# DATA255/homework5/homework3_SungwonLee.zip
+DATA255/demo/data
 DATA255/homework5/data/
 DATA255/homework5/samples/
 DATA255/homework5/modified_samples/
