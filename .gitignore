@@ -24,6 +24,8 @@ DATA255/homework4/streetview.mp4
 DATA255/homework4/result.mp4
 DATA255/homework4/frames/
 DATA255/homework4/detectron2
+DATA255/homework7/glove.6B.50d.txt
+
 
 # Ignore datasets in DATA255/homework5
 # DATA255/homework5/homework3_SungwonLee.zip
