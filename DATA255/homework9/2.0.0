@@ -1,0 +1,2 @@
+Requirement already satisfied: portalocker in c:\users\pumad\anaconda3\envs\myenv\lib\site-packages (2.10.1)
+Requirement already satisfied: pywin32>=226 in c:\users\pumad\anaconda3\envs\myenv\lib\site-packages (from portalocker) (305.1)
