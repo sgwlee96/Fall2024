@@ -7,7 +7,7 @@ Thumbs.db
 # DATA240
 ###########################################################################################
 DATA240/BonusAssignment1/fashion_mnist1.csv
-
+DATA240/GroupProject/data
 
 
 
@@ -25,7 +25,7 @@ DATA255/homework4/result.mp4
 DATA255/homework4/frames/
 DATA255/homework4/detectron2
 DATA255/homework7/glove.6B.50d.txt
-
+DATA255/homework11/.env
 
 # Ignore datasets in DATA255/homework5
 # DATA255/homework5/homework3_SungwonLee.zip
@@ -43,5 +43,6 @@ DATA255/homework6/img_align_celeba/
 DATA255/homework6/data
 DATA255/homework6/final_cycleGAN_model.pth
 DATA255/homework6/Homework6_SungwonLee.ipynb
+DATA255/demo/demo09
 # DATA255/homework6/.ipynb_checkpoints/
 
